@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on DevOps tools
-- 🌱 I’m currently learning AWS, Ansible, Terraform and Jekins
+- 🌱 I’m currently learning AWS, Docker, Terraform
 - 👯 I’m looking to collaborate on Anything Cloud
 
 
