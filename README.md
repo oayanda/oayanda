@@ -5,6 +5,6 @@
 
 
 - 🌱 I’m currently learning AWS, Docker, Terraform
-- 👯 I’m looking to collaborate on DevOPs and Cloud projects.
+- 👯 I’m looking to collaborate on DevOps and Cloud projects.
 
 
