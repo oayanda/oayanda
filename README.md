@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=035afc)
 ![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=035afc)
 ![](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=035afc)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=035afc)
 ![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=035afc)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=035afc)
