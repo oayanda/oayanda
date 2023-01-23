@@ -39,6 +39,3 @@
   <a href="mailto:micahshallom@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{oayanda}/count.svg)
