@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning Kubernetes, Terraform
+- 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on DevOps and Cloud projects.
 
 
